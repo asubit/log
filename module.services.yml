@@ -1,0 +1,3 @@
+services:
+  module.log:
+    class: Drupal\module\Service\Log
