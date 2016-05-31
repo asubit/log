@@ -19,3 +19,6 @@ In `Log.php` line 6 and 7 change constant variable with your custom values :
     
 ### By mail
     \Drupal::service('module.log')->mail('My first log send by mail');
+
+## Contribute
+Any contribution is welcome
